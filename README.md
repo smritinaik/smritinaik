@@ -7,5 +7,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=smritinaik&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=smritinaik&theme=dark&hide_border=false)<br/>
