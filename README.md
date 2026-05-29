@@ -1,3 +1,8 @@
+Hi there 👋, I'm Smriti Naik
+💻 Full Stack Developer passionate about building modern web & mobile applications
+🚀 Exploring Web Development, React Native, and Backend Technologies
+🎨 Content Creator sharing tech, coding, and developer content on Instagram & YouTube
+🎤 Enthusiastic about Public Speaking & Community Learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smii.creates) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smritinaik15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smritin169@gmail.com) 
