@@ -1,4 +1,7 @@
 ## I'm Smriti Naik
+<p align="center">
+  <img src="Smriti Naik.png" alt="Smriti Banner" width="100%" />
+</p>
 💻 Full Stack Developer passionate about building modern web & mobile applications
 🚀 Exploring Web Development, React Native, and Backend Technologies
 🎨 Content Creator sharing tech, coding, and developer content on Instagram & YouTube
